@@ -19,7 +19,7 @@ DESIGNED BY YOGENDRA FAUJDAR
 # Define the repositories and their respective URLs
 repositories = {
     'domain-lookup': 'https://github.com/yogi612/domain-lookup.git',
-    'Port-Scanning ': 'https://github.com/yogi612/Port-Scanning.git',
+    'Port-Scanning': 'https://github.com/yogi612/Port-Scanning.git',
     'VIGIL.X' :'https://github.com/yogi612/VIGIL.X.git',
 }
 
