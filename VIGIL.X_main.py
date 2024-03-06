@@ -18,9 +18,9 @@ DESIGNED BY YOGENDRA FAUJDAR
 
 # Define the repositories and their respective URLs
 repositories = {
-    'DOMAIN LOOK UP': 'https://github.com/yogi612/domain-lookup.git',
-    'Port Scanning ': 'https://github.com/yogi612/Port-Scanning.git',
-    'OSINT Search':'https://github.com/yogi612/VIGIL.X.git',
+    'domain-lookup': 'https://github.com/yogi612/domain-lookup.git',
+    'Port-Scanning ': 'https://github.com/yogi612/Port-Scanning.git',
+    'VIGIL.X' :'https://github.com/yogi612/VIGIL.X.git',
 }
 
 # Function to clone and install a repository
